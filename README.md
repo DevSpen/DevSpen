@@ -1,6 +1,18 @@
-Hello, I'm Spen. You may know me from BDFD or one of my bots, Pepe Boy. I mostly code in discord.js and use BDFD to test out functions. Thanks for reading!
+Hello, I'm Spen. You may know me from being a Moderator for BDFD or one of my varies bots. I mostly code in `discord.js` and make quality and fun Discord bots.
 
-<!---
-DevSpen/DevSpen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm Experienced In
+-  `discord.js` 
+-  `dbd.js`
+-  `BDFD`
+-  `Markdown`
+-  `HTML`
+
+## Projects
+#### Owned By Me
+- [Pepe Boy](https://dsc.gg/pepeboy)
+  - A fun and engaging bot based off of economy (and memes ofcourse)
+- [Neko Feed](https://www.google.com/search?q=coming+soon)
+  - Spicing up Discord servers with everything nekos!
+
+#### Frequent Contributor Of
+- [BDFD Wiki](https://github.com/NilPointer-Software/bdfd-wiki)
