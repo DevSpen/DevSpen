@@ -1,18 +1,16 @@
-Hello, I'm Spen. You may know me from being a Moderator for BDFD or one of my varies bots. I mostly code in `discord.js` and make quality and fun Discord bots.
-
-## I'm Experienced In
--  `discord.js` 
--  `dbd.js`
--  `BDFD`
--  `Markdown`
--  `HTML`
+<h1 align="center">Hello there, I'm Spen</h1>
+<h3 align="center">A bot developer and documentation maker.</h3>
 
 ## Projects
-#### Owned By Me
+### Owned By Me
 - [Pepe Boy](https://dsc.gg/pepeboy)
-  - A fun and engaging bot based off of economy (and memes ofcourse)
-- [Neko Feed](https://www.google.com/search?q=coming+soon)
-  - Spicing up Discord servers with everything nekos!
-
-#### Frequent Contributor Of
+  - A fun and engaging bot based off of economy and memes.
+- [Infurness](https://www.google.com/search?q=Coming+Soon)
+  - The best Discord bot. Customizable, free, extremely advanced.
+ 
+### Contributor Of
 - [BDFD Wiki](https://github.com/NilPointer-Software/bdfd-wiki)
+  - A wiki explaining the BDFD application.
+- [d.js-BDScript](https://github.com/Rubenennj/d.js-BDscript)
+  - d.js-BDScript is a cross between Bot Designer For Discord and discord.js. This language was developed for people who want to create easily create advanced bots.
+ 
