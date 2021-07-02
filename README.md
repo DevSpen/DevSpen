@@ -1,5 +1,4 @@
 <h1 align="center">Hello there, I'm Spen</h1>
-<h3 align="center">A bot developer and documentation maker.</h3>
 
 ## Projects
 ### Owned By Me
@@ -13,4 +12,3 @@
   - A wiki explaining the BDFD application.
 - [d.js-BDScript](https://github.com/Rubenennj/d.js-BDscript)
   - d.js-BDScript is a cross between Bot Designer For Discord and discord.js. This language was developed for people who want to create easily create advanced bots.
- 
