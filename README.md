@@ -12,3 +12,5 @@
   - A wiki explaining the BDFD application.
 - [d.js-BDScript](https://github.com/Rubenennj/d.js-BDscript)
   - d.js-BDScript is a cross between Bot Designer For Discord and discord.js. This language was developed for people who want to create easily create advanced bots.
+
+[![Spen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSpen&theme=tokyonight)]()
