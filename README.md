@@ -14,8 +14,7 @@
   <br/>
 <details> 
   <summary>📋 View Streak</summary>
-  <br/>
-<p align="center">
+  <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="streak" alt="Spen's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSpen&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
