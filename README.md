@@ -33,10 +33,10 @@
   <li>Bot Designer For Discord - I'm expirenced in the application "Bot Designer For Discord". I'm a Moderator currently on the BDFD server, as well.</li>
   <li>HTML and JavaScript - They're my bread-and-butter. HTML and JavaScript are my two favorite languages. Generally, I work with the <a href="https://discord.dev">Discord API</a>.</li>
   <li>Still Learning - I'm exploring the Software Developement space, I don't consider myself a <em>expirenced</em> programmer. I'll continute exploring new languages and libaries as my jouney progresses.</li>
-</ul> 
+  </ul> 
 </details>
   
-  <details>
+<details>
   <summary>🛠 Projects</summary>
   <p align="left">
        <h2>Projects</h2>
@@ -51,9 +51,9 @@
     <li><a href="https://github.com/NilPointer-Software/bdfd-wiki">BDFD Wiki</a> - A wiki explaining the BDFD application.</li>
     <li><a href="https://github.com/Rubenennj/d.js-BDscript">d.js-BDScript</a> - d.js-BDScript is a cross between Bot Designer For Discord and discord.js. This libary was developed for people who want to create easily create advanced bots.</li>
     </ul> 
-  </details>
+</details>
   
- <details>
+<details>
   <summary>📬 Contact</summary>
   <p align="left">
        <h2>Contact</h2>
@@ -62,4 +62,4 @@
      <li>Tag: <code>Spen#0999</code></li>
      <li>ID: <code>696368083517964288</code></li>
    </ul>
- </details>
+</details>
