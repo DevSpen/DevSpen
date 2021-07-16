@@ -1,6 +1,5 @@
 <!--Credits to lrusso96 (https://github.com/lrusso96) for the profile scheme.-->
 <!--All 3rd party trademarks and copyrights are property of their respective owners/maintainers.-->
-<html>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Spen!&center=true&width=380&height=45">
 </p>
@@ -63,5 +62,4 @@
      <li>Tag: <code>Spen#0999</code></li>
      <li>ID: <code>696368083517964288</code></li>
    </ul>
-</details>
-</html>
+ </details>
