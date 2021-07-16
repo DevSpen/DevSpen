@@ -22,6 +22,20 @@
 </p>
 </details>
 
+<details>
+  <summary>Task List</summary>
+  <p align="left">
+       <h2>My Task List</h2>
+    <p><em>This is my public task list, basically stuff I need to do (like a to-do list). Generally, you can just ignore it.</em></p>
+    <p>
+  <ul>
+  <li>Finish Drakon Bot</li>
+  <li>Start Work On Nemesis Bot</li>
+  <li>Finalize BDFD Wiki Draft PR</li>
+</ul>  
+  </p>         
+</details>
+
 ## Projects
 ### Owned By Me
 - [Pepe Boy](https://dsc.gg/pepeboy)
