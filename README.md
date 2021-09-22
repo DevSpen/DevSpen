@@ -27,7 +27,7 @@
   <ul>
   <li><strong>Product Management</strong> - I'm interested in product management/development (e.g. coming up with new ideas, improving existing things).</li>
   <li><strong>Documentation Supporter</strong> - You'll see me frequently contributing to documentation projects, as I enjoy writing.</li>
-  <li><strong><em>Bot Designer for Discord</em></strong> - I'm expirenced in the application "Bot Designer For Discord". I also help moderate and manage the BDFD server, and some other things related to it.</li>
+  <li><strong><em>Bot Designer for Discord</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li>
   <li><strong>Still Learning</strong> - I'm exploring the Software Developement space, I don't consider myself a <em>expirenced</em> programmer. I'll continute exploring new languages and libaries as my journey progresses.</li>
   </ul> 
   </p>
@@ -42,7 +42,7 @@
     <ul>
     <li><a href="https://dsc.gg/devtopia">Devtopia</a> - A Discord server ran by developers, for developers.</li>
     <li><a href="https://github.com/DevSpen/links">Links</a> - A actively maintained list of IP grabber, phishing, and otherwise "bad" links.</li>
-    <li><a href="https://dsc.gg/pepeboy">Pepe Boy</a> - A fun and engaging bot based off of economy and memes *(currently being rewritten)*.</li>
+    <li><a href="https://dsc.gg/pepeboy">Pepe Boy</a> - A fun and engaging bot based off of economy and memes <em>(currently being rewritten)</em>.</li>
     </ul>
     <h3>Frequent Contributor Of</h3>
     <ul>
