@@ -33,7 +33,8 @@
   <h3>Owned By Me</h3>
   <ul>
     <li><a href="https://dsc.gg/devtopia">Devtopia</a> - A Discord server ran by developers, for developers.</li>
-    <li><a href="https://spen.tk/api">Scam Links API</a>An API helping prevent scams.</li>
+    <li><a href="https://github.com/devspen/us-presidents">us-presidents</a> - A NPM package for searching and fetching data about US presidents.</li>
+    <li><a href="https://spen.tk/api">Scam Links API</a> - An API helping prevent scams.</li>
     <li><a href="https://github.com/DevSpen/scam-links">Scam Links</a> - A actively maintained list of IP grabber, phishing, and otherwise "bad" links.</li>
     <li><a href="https://npmjs.com/package/to-emoji">to-emoji</a> - A NPM package to convert strings into emojis, and vice-versa.</li>
     <li><a href="https://github.com/DevSpen/bdfdx">bdfdx</a> - A self-hostable extension for Bot Designer for Discord.</li>
