@@ -1,60 +1,39 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Spen!&center=true&width=380&height=45"> </p>
-<p align="center">
-  <a href="https://github.com/DevSpen"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DevSpen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
-</p>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Spen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevSpen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Spen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevSpen&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Spen!&center=true&width=380&height=45">
+  <br />
+  <a href="https://github.com/DevSpen"> 
+    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DevSpen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
+  </a>
+</div>
+<br />
+
+I'm a developer who loves experimenting as well as supporter of [FOSS](https://wikipedia.org/wiki/Free_and_open-source_software) and [Web A11Y](https://www.a11yproject.com/). I also like reading and writing specifications and documentation in my free time.
+
+*Member of [Cloud Team](https://github.com/cloudteamdev) and [Alpaca Industries](https://github.com/Alpaca-Industries")*.
+
 <details>
-  <summary>📋 View Streak</summary>
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img title="streak" alt="Spen's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSpen&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" /> </a>
-  </p>
+  <summary>Projects</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/cloudteamdev/djs-bdscript-next">bdscript.js</a> - A simple psuedo-scripting language for creating chatbots.
+    </li>
+    <li>
+      <a href="https://github.com/Alpaca-Industries/TechBot">TechBot</a> - A free, open-source, multipurpose, and privacy-respecting Discord bot for everyone's needs.</a>
+    </li>
+    <li>
+      <a href="https://github.com/DevSpen/scam-links">Scam Links</a> - A collection of scam links (with an API).
+    </li>
+    <li>...some other smaller and upcoming projects...</li>
+  </ul>
 </details>
 <details>
-  <summary>❤️ About Me</summary>
-  <p align="left">
-  <h2>About Me</h2>
-  <p> My name is Spen. I love coding, computers, and writing.</p>
-  <ul>
-    <li><strong>Product Management</strong> - I'm interested in product management/development (e.g. coming up with new ideas, improving existing things).</li>
-    <li><strong>Documentation Supporter</strong> - You'll see me frequently contributing to documentation projects, as I enjoy writing.</li>
-    <li><strong><em>Bot Designer for Discord</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li>
-    <li><strong>Still Learning</strong> - I'm exploring the Software Developement space, I don't consider myself a <em>expirenced</em> programmer. I'll continute exploring new languages and libaries as my journey progresses.</li>
-  </ul>
-  </p>
+  <summary>Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Spen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevSpen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Spen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevSpen&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 </details>
-<details>
-  <summary>🛠 Projects</summary>
-  <p align="left">
-  <h2>Projects</h2>
-  <p><em>My current projects. I also have some other ones not listed here.</em></p>
-  <h3>Owned By Me</h3>
-  <ul>
-    <li><a href="https://dsc.gg/devtopia">Devtopia</a> - A Discord server ran by developers, for developers.</li>
-    <li><a href="https://github.com/devspen/us-presidents">us-presidents</a> - A NPM package for searching and fetching data about US presidents.</li>
-    <li><a href="https://spen.tk/api">Scam Links API</a> - An API helping prevent scams.</li>
-    <li><a href="https://github.com/DevSpen/scam-links">Scam Links</a> - A actively maintained list of IP grabber, phishing, and otherwise "bad" links.</li>
-    <li><a href="https://npmjs.com/package/to-emoji">to-emoji</a> - A NPM package to convert strings into emojis, and vice-versa.</li>
-    <li><a href="https://github.com/DevSpen/bdfdx">bdfdx</a> - A self-hostable extension for Bot Designer for Discord.</li>
-    <li><a href="https://dsc.gg/pepeboy">Pepe Boy</a> - A fun and engaging bot based off of economy and memes <em>(currently being rewritten)</em>.</li>
-  </ul>
-  <h3>Frequent Contributor Of</h3>
-  <ul>
-    <li><a href="https://github.com/NilPointer-Software/bdfd-wiki">BDFD Wiki</a> - A wiki explaining the BDFD application.</li>
-    <li><a href="https://github.com/aoijs/aoi.js">Aoi.JS</a> - A NPM package used for simply developing Discord bots.</li>
-  </ul>
-  </p>
-</details>
-<details>
-  <summary>📬 Contact</summary>
-  <p align="left">
-  <h2>Contact</h2>
-  <p>If you'd like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
-  <ul>
-    <li>Tag: <code>Spen#0999</code></li>
-    <li>ID: <code>696368083517964288</code></li>
-  </ul>
-  </p>
-</details>
+
