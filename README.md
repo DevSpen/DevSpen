@@ -9,7 +9,7 @@
 
 I'm a developer who loves experimenting as well as supporter of [FOSS](https://wikipedia.org/wiki/Free_and_open-source_software) and [Web A11Y](https://www.a11yproject.com/). I also like reading and writing specifications and documentation in my free time.
 
-*Member of [Cloud Team](https://github.com/cloudteamdev) and [Alpaca Industries](https://github.com/Alpaca-Industries")*.
+*Member of [Cloud Team](https://github.com/cloudteamdev) and [Alpaca Industries](https://github.com/Alpaca-Industries)*.
 
 <details>
   <summary>Projects</summary>
